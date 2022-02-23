@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{E2E4D311-7BB9-4408-8F7D-BF9600D6FEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Node", "Node\Node.csproj", "{CB6BFFAE-6033-4CBE-80EF-999B524C8E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E4D311-7BB9-4408-8F7D-BF9600D6FEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E4D311-7BB9-4408-8F7D-BF9600D6FEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E4D311-7BB9-4408-8F7D-BF9600D6FEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E4D311-7BB9-4408-8F7D-BF9600D6FEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB6BFFAE-6033-4CBE-80EF-999B524C8E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB6BFFAE-6033-4CBE-80EF-999B524C8E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB6BFFAE-6033-4CBE-80EF-999B524C8E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB6BFFAE-6033-4CBE-80EF-999B524C8E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
