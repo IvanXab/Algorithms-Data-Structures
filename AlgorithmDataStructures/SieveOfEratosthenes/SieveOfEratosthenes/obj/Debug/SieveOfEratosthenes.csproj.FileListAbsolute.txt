@@ -1,8 +1,0 @@
-C:\Users\Xab\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
-C:\Users\Xab\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
-C:\Users\Xab\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
-C:\Users\Xab\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.AssemblyReference.cache
-C:\Users\Xab\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.SuggestedBindingRedirects.cache
-C:\Users\Xab\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
-C:\Users\Xab\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
-C:\Users\Xab\source\repos\SieveOfEratosthenes\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb
